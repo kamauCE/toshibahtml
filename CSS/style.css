@@ -1,0 +1,26 @@
+td,tr,th{
+  border: #2a8dce 3px solid;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+  /*height: 100vh;*/
+}
+tr:nth-child(even){
+  background-color: #8bb9fe;
+}
+.fruits{
+  background-color: #0a58ca;
+  color: brown;
+  text-align: center;
+  font-size: 15px;
+}
+.languages{
+  background-color: #0d0d0d;
+  color: white;
+}
+.lap{
+  background-color: brown;
+  color: #0d0d0d;
+}
+
